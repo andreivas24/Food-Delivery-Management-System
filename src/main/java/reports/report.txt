@@ -1,0 +1,29 @@
+Start hour: 0
+End hour: 24
+Order day: luni
+Specified number of products: 3
+Specified number of client orders: 2
+Order value: 0
+
+Number of products bought more than the specified number: 6
+Product name: Quick & Spicy Asian Pickles 
+Product count: 3
+
+Product name: Fresh Corn Tortillas 
+Product count: 3
+
+Product name: Spicy Pickled Shallots 
+Product count: 3
+
+Product name: Smoked Caviar and Hummus on Pita Toasts 
+Product count: 3
+
+Product name: Ethiopian Spice Tea 
+Product count: 3
+
+Product name: Barbecued Shrimp 
+Product count: 3
+
+
+Clients who ordered more than a specified number and with an order value bigger than a specified number:
+client1
